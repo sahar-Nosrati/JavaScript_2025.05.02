@@ -1,1 +1,3 @@
-# JavaScript_2025.05.02
+# Study JavaScript
+  - Learn debugging (run and debug in vs code)
+  - Basic principles of JSON 
